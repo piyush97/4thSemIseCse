@@ -1,58 +1,33 @@
-#include <stdio.h>
-#include <time.h> 
-  double totaltime;
-void swap(int *xp, int *yp)
+#include<stdio.h>
+#include<time.h>
+
+void main()
 {
-    int temp = *xp;
-    *xp = *yp;
-    *yp = temp;
+int i,n,j,min,temp;
+int a[10000];
+printf("enter the size of the array \n");
+scanf("%d",&n);
+for(i=n;i>=1;i--)
+a[n-i]=i;
+clock_t start,end;
+double cpu_time;
+start=clock();
+for(i=0;i<n-2;i++)
+{
+min=a[i];
+for(j=i+1;j<n-(i+1);j++)
+{
+if(a[j]>a[min])
+{
+temp=a[min];
+a[min]=a[i];
+a[i]=temp;
 }
- 
-void selectionSort(int arr[], int n)
-{
-  clock_t start,end;
-
-  start=clock();
-    int i, j, min_idx;
- 
-
-    for (i = 0; i < n-1; i++)
-    {
-
-        min_idx = i;
-        for (j = i+1; j < n; j++)
-          if (arr[j] < arr[min_idx])
-            min_idx = j;
- 
-
-        swap(&arr[min_idx], &arr[i]);
-    }
-    end=clock();
-   totaltime= ((double) (end - start)) / CLOCKS_PER_SEC;
 }
- 
-
-void printArray(int arr[], int size)
-{
-    int i;
-    for (i=0; i < size; i++)
-        printf("%d ", arr[i]);
-    printf("\n");
 }
- 
-
-int main()
-{
-    int i,arr[40];
-    printf("Enter Elements");
-    for(i=0;i<40;i++)
-    {
-    	arr[i]=rand();
-    }
-    int n = sizeof(arr)/sizeof(arr[0]);
-    selectionSort(arr, n);
-    printf("Sorted array: \n");
-    printArray(arr, n);
-    printf("Total time %lf",totaltime);
-    return 0;
+end=clock();
+cpu_time=((double)(end-start))/CLOCKS_PER_SEC;
+printf("time is %f",cpu_time);
+for(i=0;i<n;i++)
+printf(" %d",a[i]);
 }
