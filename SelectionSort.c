@@ -13,10 +13,10 @@ a[n-i]=i;
 clock_t start,end;
 double cpu_time;
 start=clock();
-for(i=0;i<n-2;i++)
+for(i=0;i<=n-2;i++)
 {
 min=a[i];
-for(j=i+1;j<n-(i+1);j++)
+for(j=i+1;j<=n-(i+1);j++)
 {
 if(a[j]>a[min])
 {
