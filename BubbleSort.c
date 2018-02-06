@@ -1,51 +1,34 @@
-#include <stdio.h>
-#include <time.h> 
-  double totaltime;
-void swap(int *xp, int *yp)
+#include<stdio.h>
+#include<time.h>
+
+void main()
 {
-    int temp = *xp;
-    *xp = *yp;
-    *yp = temp;
+int i,n,j,temp;
+int a[100000];
+printf("enter the size of the array \n");
+scanf("%d",&n);
+for(i=n;i>=1;i--)
+a[n-i]=i;
+clock_t start,end;
+double cpu_time;
+start=clock();
+for(i=0;i<n;i++)
+{
+for(j=0;j<n-1-i;j++)
+{
+if(a[j]>a[j+1])
+{
+temp=a[j];
+a[j]=a[j+1];
+a[j+1]=temp;
 }
- 
-
-void bubbleSort(int arr[], int n)
-{
-  clock_t start,end;
-  start=clock();
-   int i, j;
-   for (i = 0; i < n-1; i++)      
- 
-
-       for (j = 0; j < n-i-1; j++) 
-           if (arr[j] > arr[j+1])
-              swap(&arr[j], &arr[j+1]);
-               end=clock();
-   totaltime= ((double) (end - start)) / CLOCKS_PER_SEC;
 }
- 
-
-void printArray(int arr[], int size)
-{
-    int i;
-    for (i=0; i < size; i++)
-        printf("%d ", arr[i]);
-    printf("n");
 }
- 
+end=clock();
+cpu_time=((double)(end-start))/CLOCKS_PER_SEC;
+printf("time is %f",cpu_time);
+for(i=0;i<n;i++)
+printf(" %d",a[i]);
+}
 
-int main()
-{
-int i;
-int arr[40];
-    for(i=0;i<40;i++)
-    {
-    	arr[i]=random();
-    }
-    int n = sizeof(arr)/sizeof(arr[0]);
-    bubbleSort(arr, n);
-    printf("Sorted array: \n");
-    printArray(arr, n);
-     printf("Total time %lf",totaltime);
-    return 0;
-   }
+
