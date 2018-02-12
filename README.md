@@ -1,6 +1,7 @@
 # 4thSemIse
 ## All programs will be updated here!
-Updates:
+
+# Updates:
 ### Algorithms
 -----
 1. Bubble Sort Program
