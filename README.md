@@ -2,7 +2,12 @@
 ## All programs will be updated here!
 
 # Updates:
-### Algorithms
+### Algorithms in C
+-----
+1. Bubble Sort Program
+2. Selection Sort Program
+
+### Algorithms in C++
 -----
 1. Bubble Sort Program
 2. Selection Sort Program
