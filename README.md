@@ -12,7 +12,7 @@
 1. Bubble Sort Program
 2. Selection Sort Program
 
-### MicroProcessor
+### MicroProcessor LAB using MASM (Microsoft Assembler) 
 ----------------
 1. Swap
 2. Array
