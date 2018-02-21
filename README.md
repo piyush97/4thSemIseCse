@@ -1,7 +1,6 @@
 # 4thSemIse
-## All programs will be updated here!
-============
-# Updates:
+
+## Updates:
 ### Algorithms in C
 -----
 1. Bubble Sort Program
