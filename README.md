@@ -19,10 +19,10 @@
 -----------------
 ### [MicroProcessor LAB using MASM (Microsoft Assembler)](https://github.com/piyush97/4thSemIse/tree/master/MicroProcessor%20Lab%20Programs)
 ----------------
-1. [Swap]
-2. [Array]
-3. [Shift Right (Program)]
-4. [Binary Search (. Model)]
-5. [Bubble Sort (. Model)]
+1. [Swap](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/swap.asm)
+2. [Array](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/array.asm)
+3. [Shift Right (Program)](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/ShiftRight.asm)
+4. [Binary Search (. Model)](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/BINARY%20SEARCH%20(dot%20Model)%20.asm)
+5. [Bubble Sort (. Model)](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/Bubble%20Sort%20(dot%20model).asm)
 
 -----------------
