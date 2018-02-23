@@ -20,5 +20,6 @@
 1. Swap
 2. Array
 3. Shift Right (Program)
-
+4. Binary Search (. Model)
+5. Bubble Sort (. Model)
 -----------------
