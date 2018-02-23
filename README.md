@@ -11,10 +11,10 @@
 -----------
 ### [Algorithms in C++](https://github.com/piyush97/4thSemIse/tree/master/Algorithm%20Lab%20Programs%20C%2B%2B)
 -----
-1. [Bubble Sort Program]
-2. [Selection Sort Program]
-3. [Quick Sort Program]
-4. [Merge Sort Program]
+1. [Bubble Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C%2B%2B/BubbleSort.cpp)
+2. [Selection Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C%2B%2B/SelectionSort.cpp)
+3. [Quick Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C%2B%2B/QuickSort.CPP)
+4. [Merge Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C%2B%2B/Merge.cpp)
 
 -----------------
 ### [MicroProcessor LAB using MASM (Microsoft Assembler)](https://github.com/piyush97/4thSemIse/tree/master/MicroProcessor%20Lab%20Programs)
