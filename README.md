@@ -24,7 +24,7 @@
 
 -----------------
 ### [MicroProcessor LAB using MASM (Microsoft Assembler)](https://github.com/piyush97/4thSemIse/tree/master/MicroProcessor%20Lab%20Programs)
-----------------
+------
 
 | Program Name | Author |
 |:-------|:------:|
