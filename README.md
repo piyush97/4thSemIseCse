@@ -12,17 +12,7 @@
 [Merge Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/MergeSort.c)|Piyush|
 
 -----------
-### [Algorithms in C++](https://github.com/piyush97/4thSemIse/tree/master/Algorithm%20Lab%20Programs%20C%2B%2B)
------
 
-| Program Name | Author |
-|:-------|:------:|
-[Bubble Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C%2B%2B/BubbleSort.cpp)|[Abhilash](https://github.com/abhilash1in)|
-[Selection Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C%2B%2B/SelectionSort.cpp)|[Abhilash](https://github.com/abhilash1in)|
-[Quick Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C%2B%2B/QuickSort.CPP)|[Abhilash](https://github.com/abhilash1in)|
-[Merge Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C%2B%2B/Merge.cpp)|[Abhilash](https://github.com/abhilash1in)|
-
------------------
 ### [MicroProcessor LAB using MASM (Microsoft Assembler)](https://github.com/piyush97/4thSemIse/tree/master/MicroProcessor%20Lab%20Programs)
 ------
 
