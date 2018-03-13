@@ -34,7 +34,9 @@
 [Binary Search (. Model)](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/BINARY%20SEARCH%20(dot%20Model)%20.asm)|Piyush|
 [Bubble Sort (. Model)](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/Bubble%20Sort%20(dot%20model).asm)|Piyush|
 [Binary Search](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/Binary%20Search.asm)|[Arjun](https://github.com/arjun-rao)|
+[Factorial](https://github.com/piyush97/4thSemIse/blob/master/MicroProcessor%20Lab%20Programs/factorial.asm)|Piyush|
 
 -----------------
 Maintained By [Piyush Mehta](https://github.com/piyush97)
+
 ------------------
