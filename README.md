@@ -10,8 +10,7 @@
 [Selection Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/SelectionSort.c)|Vybhav|
 [Quick Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/QuickSort.c)|Piyush|
 [Merge Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/MergeSort.c)|Piyush|
-[KnapSack]|Piyush|
-|
+|KnapSack|Piyush|
 -----------
 
 ### [MicroProcessor LAB using MASM (Microsoft Assembler)](https://github.com/piyush97/4thSemIse/tree/master/MicroProcessor%20Lab%20Programs)
