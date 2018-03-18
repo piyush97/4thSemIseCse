@@ -6,7 +6,7 @@
 
 | Program Name | Author |
 |:-------|:------:|
-| [Bubble Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/BubbleSort.c) | Vybhav|
+| [Bubble Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/Bubble%sort.c) | Vybhav|
 [Selection Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/SelectionSort.c)|Vybhav|
 [Quick Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/QuickSort.c)|Piyush|
 [Merge Sort Program](https://github.com/piyush97/4thSemIse/blob/master/Algorithm%20Lab%20Programs%20C/MergeSort.c)|Piyush|
