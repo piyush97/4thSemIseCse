@@ -21,14 +21,14 @@ void merge(int a[],int low,int mid,int high)
         for(p=0; p<k; p++)
                 a[low++]=b[p];
 }
-void mergesort(int a[],int low,int high)
+void mergeSort(int a[],int low,int high)
 {
         int mid;
         if(low<high)
         {
                 mid=(low+high)/2;
-                mergesort(a,low,mid);
-                mergesort(a,mid+1,high);
+                mergeSort(a,low,mid);
+                mergeSort(a,mid+1,high);
                 merge(a,low,mid,high);
         }
 }
@@ -47,7 +47,11 @@ void main()
         clock_t start,end;
         start=clock();
         printf("sorted array is \n");
+<<<<<<< HEAD
         mergesort(a,0,n-1);
+=======
+        mergeSort(a,0,n-1);
+>>>>>>> 55ed3c6fc29e4d2dd2c1fb71e31f5283ad47b9bf
         end=clock();
         for(i=0; i<n; i++)
                 printf("%d",a[i]);
