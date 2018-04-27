@@ -41,13 +41,16 @@ void main()
         int i,a[n];
         for(i=n; i>0; i--)
                 a[n-i]=i;
+        printf("unsorted array is \n");
+        for(i=0; i<n; i++)
+                printf("%d",a[i]);
         clock_t start,end;
         start=clock();
-//printf("sorted array is \n");
+        printf("sorted array is \n");
         mergesort(a,0,n-1);
         end=clock();
-//for(i=0;i<n;i++)
-//printf("%d",a[i]);
+        for(i=0; i<n; i++)
+                printf("%d",a[i]);
         float time=(float)(end-start)/CLOCKS_PER_SEC;
         printf("time takenis = %f",time);
 }
