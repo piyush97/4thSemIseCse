@@ -1,4 +1,4 @@
-include<stdio.h>
+#include <stdio.h>
 
 void dijkstra(int,int[20][20],int[20],int[20],int);
 void main()

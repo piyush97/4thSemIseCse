@@ -47,11 +47,7 @@ void main()
         clock_t start,end;
         start=clock();
         printf("sorted array is \n");
-<<<<<<< HEAD
         mergesort(a,0,n-1);
-=======
-        mergeSort(a,0,n-1);
->>>>>>> 55ed3c6fc29e4d2dd2c1fb71e31f5283ad47b9bf
         end=clock();
         for(i=0; i<n; i++)
                 printf("%d",a[i]);
