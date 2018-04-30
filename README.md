@@ -25,8 +25,43 @@
 
 -----------
 
+### [Algorithms in C++](https://github.com/piyush97/4thSemIse/tree/master/Algorithms%20in%20C%2B%2B)
+
+
+| Program Name | Author |
+|:-------|:------:|
+| Bubble Sort Program | Piyush|
+|Selection Sort Program|Piyush|
+|Quick Sort Program|Piyush|
+|Merge Sort Program|Piyush|
+|KnapSack|Piyush|
+|BFS|Piyush|
+|DFS|Piyush|
+|Dijikstra|Piyush|
+|Floyd|Piyush|
+|Heap Sort|Piyush|
+|Horspool|Piyush|
+|Kruskal|Piyush|
+|Prims|Piyush|
+|Warshal|Piyush|
+
+-----
+
 ### [MicroProcessor LAB using MASM (Microsoft Assembler)](https://github.com/piyush97/4thSemIse/tree/master/MicroProcessor%20Lab%20Programs)
 ------
+
+| Program Name | Author |
+|:-------|:------:|
+| 1a | 1b | Piyush|
+| 2a | 2b | Piyush|
+| 3a | 3b | Piyush|
+| 4a | 4b | Piyush|
+| 5a | 5b | Piyush|
+| 6a | 6b | Piyush|
+| 7a | 7b | Piyush|
+| 8a | 8b | Piyush|
+| 9a | 9b | Piyush|
+| 10a | 10b | Piyush|
 
 
 -----------------
