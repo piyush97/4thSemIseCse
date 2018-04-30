@@ -50,7 +50,7 @@
 ### [MicroProcessor LAB using MASM (Microsoft Assembler)](https://github.com/piyush97/4thSemIse/tree/master/MicroProcessor%20Lab%20Programs)
 ------
 
-| Program Name | Author |
+|Software Program |HardWare Program | Author |
 |:-------|:------:|:-------:|
 | 1a | 1b | Piyush|
 | 2a | 2b | Piyush|
