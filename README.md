@@ -1,6 +1,16 @@
 # 4thSemIse
 ----------
 
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
+
 ## Updates:
 
 ### [Algorithms in C](https://github.com/piyush97/4thSemIse/tree/master/Algorithm%20Lab%20Programs%20C)
