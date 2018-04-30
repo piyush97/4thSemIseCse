@@ -51,7 +51,7 @@
 ------
 
 | Program Name | Author |
-|:-------|:------:|
+|:-------|:------:|:-------:|
 | 1a | 1b | Piyush|
 | 2a | 2b | Piyush|
 | 3a | 3b | Piyush|
