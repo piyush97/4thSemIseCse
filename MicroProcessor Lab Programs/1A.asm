@@ -2,7 +2,7 @@ assume cs:code,ds:data
 data segment
         a db 10h,20h,30h,40h,50h ; element positions 0 1 2 3 4
         n db n-a    ; n = 5
-        key db 40h  ; search element
+        key db 60h  ; search element
         msg1 db "Search unsuccessful$"
         msg2 db "Key found at position "
         pos db ?, "$"                    

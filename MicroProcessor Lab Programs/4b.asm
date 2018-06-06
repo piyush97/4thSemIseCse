@@ -22,7 +22,7 @@ code segment
 
     rot_clock:
                out dx,al
-               ror al,1             ;clockwise
+               rol al,1             ;anti-clockwise
                call delay
                loop rot_clock
                mov ah,4ch
