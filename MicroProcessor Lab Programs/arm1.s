@@ -1,11 +1,3 @@
-.text
-
-.global_start
-
-_start:
-
-Mov r0, #1234
-
-Mov r1,#1234
-
-Add r1,r2,r3
+Mov r0, #32  ;MOVE 32 TO R0
+Mov r1,#32	 ;MOVE 32 TO R1
+Add r2,r1,r0 ;ADD R1 AND R0 AND MOVE TO R2
