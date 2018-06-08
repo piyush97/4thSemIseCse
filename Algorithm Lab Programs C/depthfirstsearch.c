@@ -24,7 +24,7 @@ void main()
         printf("DFS traversal= \n");
         for(i=1; i<=n; i++)
         {
-                printf("%c \t",visitedorder[i]+64);
+                printf("%c\t",visitedorder[i]+64);
         }
 }
 int dfs(int a[20][20],int n,int visited[20],int source)
