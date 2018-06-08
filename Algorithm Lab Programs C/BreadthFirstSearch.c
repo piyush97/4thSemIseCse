@@ -35,7 +35,6 @@ void bfs(int a[20][20],int n,int visitedorder[20],int source)
         queue[++r]=source;
         while(f<=r)
         {
-                //v=queue[f++];
                 u=queue[f++];
                 for(v=1; v<=n; v++)
                 {
