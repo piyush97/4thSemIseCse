@@ -35,11 +35,11 @@ void main()
         char pattern[100];
         char text[100];
         printf("Enter The Text\n");
-//scanf("%s",text);
-        gets(text);
+scanf("%s",text);
+        // gets(text);
         printf("Enter The Pattern\n");
-//scanf("%s",pattern);
-        gets(pattern);
+scanf("%s",pattern);
+        // gets(pattern);
         j=horspool(pattern,text);
         if(j)
                 printf("Pattern found at position %d ",j+1);
