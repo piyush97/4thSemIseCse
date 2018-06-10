@@ -3,7 +3,7 @@
 
 int table[128];
 
-void shiftTable( char pattern [])
+void shiftTable(char pattern [])
 {
         int i,j,m;
         m=strlen(pattern);
