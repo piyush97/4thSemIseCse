@@ -40,3 +40,4 @@ void main()
         }
         printf("min cost is %d \n ",min_cost);
 }
+ 
