@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
 int table[128];
-
 void shiftTable(char pattern [])
 {
         int i,j,m;
