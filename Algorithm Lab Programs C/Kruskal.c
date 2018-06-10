@@ -36,7 +36,7 @@ void main()
                         min_cost+=min;
                         parent[v]=u;
                 }
-                printf("testing \n ");
+                // printf("testing \n ");
                 cost[a][b]=cost[b][a]=111;
         }
         printf("min cost is %d \n ",min_cost);
