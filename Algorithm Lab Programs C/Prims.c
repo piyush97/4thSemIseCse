@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void main()
 {
         int n,i,j,min,ne=1,min_cost=0,cost[n][n],a,u,b,v,source,visited[20];
@@ -40,4 +39,4 @@ void main()
         }
         printf("min cost is %d \n ",min_cost);
 }
- 
+  
