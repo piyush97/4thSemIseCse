@@ -27,3 +27,4 @@ void main(){
         cputime=((double)(end-start))/CLOCKS_PER_SEC;
         printf("time is %lf\n",cputime);
 }
+ 

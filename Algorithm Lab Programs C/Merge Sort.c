@@ -54,3 +54,4 @@ void main()
         float time=(float)(end-start)/CLOCKS_PER_SEC;
         printf("time takenis = %f",time);
 }
+ 

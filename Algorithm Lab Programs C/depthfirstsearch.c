@@ -18,9 +18,7 @@ void main()
                 if(visited[i]==0)
                         dfs(a,n,visited,i);
         for(i=1; i<=n; i++)
-        {
-                visitedorder[visited[i]]=i;
-        }
+                        visitedorder[visited[i]]=i;
         printf("DFS traversal= \n");
         for(i=1; i<=n; i++)
         {
@@ -33,10 +31,7 @@ int dfs(int a[20][20],int n,int visited[20],int source)
         int v;
         visited[source]=count;
         for(v=1; v<=n; v++)
-        {
                 if(a[source][v]==1&&visited[v]==0)
-                {
-                        dfs(a,n,visited,v);
-                }
-        }
+                             dfs(a,n,visited,v);
 }
+ 
