@@ -31,7 +31,7 @@ again:
         jmp again             ; continue
  loc1:
         je success            ; jump equal to
-        dec al                ; if a[mid]<key
+        dec al                ; if a[mid] > key
         mov dl,al             ; move new high to dl
         mov al,cl
         jmp again
